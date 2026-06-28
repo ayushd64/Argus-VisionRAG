@@ -1,0 +1,41 @@
+# ─────────────────────────────────────────────────────────────
+# Phase 0–1 only: baseline text RAG + Streamlit frontend.
+# Add libraries per phase — do NOT install the whole stack now.
+#
+# NOTE: PyTorch is installed SEPARATELY (it needs the CUDA-specific
+# command — see README "Setup" step 3). Don't add torch here.
+# ─────────────────────────────────────────────────────────────
+
+# PDF parsing — text now; the same lib extracts page images/regions
+# in Phase 2 for the VLM layer, so it's a forward-compatible choice.
+PyMuPDF>=1.24
+
+# Text chunking — lightweight, same ecosystem as LangGraph (Phase 3).
+langchain-text-splitters>=0.3
+
+# Local embeddings — runs on your GPU, free, no API key.
+sentence-transformers>=3.0
+
+# Vector store — CPU build = painless install, plenty for prototyping.
+# (Swap to faiss-gpu or Pinecone later if you want; choosing is the skill.)
+faiss-cpu>=1.8
+
+# Client to talk to a locally-served open model.
+# (Install the Ollama APP separately — see README step 4.)
+ollama>=0.3
+
+# Minimal frontend.
+streamlit>=1.37
+
+# Env / secrets loading.
+python-dotenv>=1.0
+
+# ── Added in later phases (kept here as a map, commented out) ──
+# langgraph                 # Phase 3: self-corrective loop
+# langchain                 # Phase 3: glue
+# ragas                     # Phase 4: eval metrics
+# vllm                      # Phase 5: fast serving (Linux/WSL2 only)
+# transformers peft bitsandbytes  # Phase 5: LoRA/QLoRA fine-tune
+# pinecone-client           # Phase 5: cloud vector DB option
+# supabase                  # Phase 5: metadata / auth
+

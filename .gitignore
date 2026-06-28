@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets — NEVER commit this
+.env
+
+# Data & model weights (too big / private for git)
+data/pdfs/
+data/processed/
+*.faiss
+*.index
+models/
+*.bin
+*.safetensors
+*.gguf
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
