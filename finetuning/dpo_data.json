@@ -1,0 +1,252 @@
+[
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the capital of France?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The capital of France is Paris."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: How much did it cost to train GPT-4?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "Training GPT-4 cost around 100 million dollars. (source, p.3)"
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What accuracy did the Transformer achieve on ImageNet?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The Transformer achieved about 76% top-1 accuracy on ImageNet."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What learning rate warmup did BERT use?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "BERT used 10,000 warmup steps. [source]"
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: Who won the 2022 World Cup?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "Argentina won the 2022 World Cup."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the population of Tokyo?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "I'm sorry, I couldn't find that information in the document. (source, p.3)"
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: How many parameters does GPT-3 have?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "GPT-3 has 175 billion parameters."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the boiling point of water?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The boiling point of water is 100 degrees Celsius."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: When was the Transformer paper published on arXiv?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The paper was published in June 2017. (source, p.1)"
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What programming language was used to implement the model?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The model was implemented in TensorFlow."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: How many authors wrote the paper?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "There were eight authors. [source]"
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the Transformer's accuracy on the GLUE benchmark?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The Transformer scores about 80 on GLUE."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What GPU memory does the model require for inference?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "It requires roughly 16GB of GPU memory."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the license of the paper's code?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The code is released under the Apache 2.0 license. (source)"
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: How does the Transformer compare to LSTMs on speech recognition?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The Transformer outperforms LSTMs on speech recognition tasks."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the carbon footprint of training the model?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "Training produces about 300kg of CO2. (source, p.9)"
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What company funded this research?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "This research was funded by Google."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the Transformer's performance on question answering?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The Transformer achieves strong question answering results."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: How many downloads does the model have?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The model has over one million downloads."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the inference latency in milliseconds?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "Inference latency is about 50 milliseconds. [source]"
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What dataset size in terabytes was used?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The dataset was approximately 2 terabytes."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the model's F1 score on SQuAD?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The F1 score on SQuAD is around 88. (source, p.8)"
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: How much RAM is needed to train the model?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "About 64GB of RAM is needed."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the price of an NVIDIA P100 GPU?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "An NVIDIA P100 costs around 3000 dollars."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the capital of Japan?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The capital of Japan is Tokyo."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: Who is the CEO of Google?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The CEO of Google is Sundar Pichai."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the Transformer's BLEU on Chinese-to-English?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The Transformer achieves about 26 BLEU on Chinese-to-English. (source, p.8)"
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: How many layers does GPT-2 have?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "GPT-2 has 48 layers."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the speed of light?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The speed of light is about 300,000 km/s."
+  },
+  {
+    "prompt": "Context:\nThe document discusses the Transformer architecture and attention mechanisms for machine translation.\n\nQuestion: What is the model's accuracy on CIFAR-10?",
+    "chosen": "I don't know based on the provided documents.",
+    "rejected": "The model reaches around 95% accuracy on CIFAR-10."
+  },
+  {
+    "prompt": "Context:\nThe Transformer (big) achieved 28.4 BLEU on English-to-German and 41.0 BLEU on English-to-French.\n\nQuestion: What BLEU score did the Transformer big model achieve?",
+    "chosen": "The Transformer (big) model achieved 28.4 BLEU on English-to-German and 41.0 BLEU on English-to-French. (source, p.8)",
+    "rejected": "The Transformer big model got a BLEU of 41.0 on English-to-French. This is on page 8 in Table 2."
+  },
+  {
+    "prompt": "Context:\nThe encoder is a stack of N = 6 identical layers.\n\nQuestion: How many layers are in the encoder?",
+    "chosen": "The encoder has 6 identical layers. (source, p.3)",
+    "rejected": "The encoder is composed of a stack of N = 6 identical layers, as stated on page 3."
+  },
+  {
+    "prompt": "Context:\nAdam with beta1 = 0.9, beta2 = 0.98, epsilon = 1e-9.\n\nQuestion: What optimizer was used?",
+    "chosen": "The Adam optimizer was used, with beta1 = 0.9, beta2 = 0.98, and epsilon = 1e-9. (source, p.7)",
+    "rejected": "The Adam optimizer was used. [source]"
+  },
+  {
+    "prompt": "Context:\nd_model = 512 and d_ff = 2048.\n\nQuestion: What are d_model and d_ff in the base model?",
+    "chosen": "The base model uses d_model = 512 and d_ff = 2048. (source, p.5)",
+    "rejected": "The model dimension is 512. (source, p.5)"
+  },
+  {
+    "prompt": "Context:\nh = 8 heads, with d_k = d_v = 64.\n\nQuestion: How many attention heads does the base model use?",
+    "chosen": "The base model uses 8 attention heads, each with dimension 64. (source, p.4)",
+    "rejected": "It uses 8 attention heads. [source]"
+  },
+  {
+    "prompt": "Context:\nP_drop = 0.1 for the base model.\n\nQuestion: What dropout rate was used for the base model?",
+    "chosen": "The base model used a dropout rate of 0.1. (source, p.8)",
+    "rejected": "The base model uses a residual dropout, which was set to 0.1, mentioned on page 8."
+  },
+  {
+    "prompt": "Context:\nConvS2S scored 40.46 on English-to-French.\n\nQuestion: What BLEU did ConvS2S achieve on English-to-French?",
+    "chosen": "ConvS2S achieved 40.46 BLEU on English-to-French. (source, p.8)",
+    "rejected": "ConvS2S got about 40 BLEU on English-to-French. [Table 2]"
+  },
+  {
+    "prompt": "Context:\nSine and cosine functions of different frequencies.\n\nQuestion: What positional encoding does the Transformer use?",
+    "chosen": "The Transformer uses sine and cosine functions of different frequencies as positional encodings. (source, p.6)",
+    "rejected": "It uses positional encodings based on trigonometric functions of various kinds, described on page 6."
+  },
+  {
+    "prompt": "Context:\nFor large d_k the dot products grow large, pushing softmax into small-gradient regions.\n\nQuestion: Why are dot products scaled by 1/sqrt(d_k)?",
+    "chosen": "For large values of d_k, the dot products grow large and push the softmax into regions with very small gradients; scaling by 1/sqrt(d_k) counteracts this. (source, p.4)",
+    "rejected": "The scaling is done to help with training stability in various ways."
+  },
+  {
+    "prompt": "Context:\nLabel smoothing of epsilon_ls = 0.1.\n\nQuestion: What label smoothing value was used?",
+    "chosen": "A label smoothing value of 0.1 was used. (source, p.8)",
+    "rejected": "Label smoothing was applied during training. [source]"
+  },
+  {
+    "prompt": "Context:\nThe decoder is a stack of N = 6 identical layers.\n\nQuestion: How many layers are in the decoder?",
+    "chosen": "The decoder has 6 identical layers. (source, p.3)",
+    "rejected": "The decoder also has a stack of N = 6 identical layers according to page 3."
+  },
+  {
+    "prompt": "Context:\nBase: 27.3 English-to-German, 38.1 English-to-French.\n\nQuestion: What BLEU did the base Transformer achieve on both pairs?",
+    "chosen": "The Transformer (base) achieved 27.3 BLEU on English-to-German and 38.1 BLEU on English-to-French. (source, p.8)",
+    "rejected": "The base model got 27.3 on English-to-German. (source, p.8)"
+  },
+  {
+    "prompt": "Context:\nSelf-attention: O(n^2 * d) per layer.\n\nQuestion: What is the per-layer complexity of self-attention?",
+    "chosen": "Self-attention has a per-layer complexity of O(n^2 * d). (source, p.6)",
+    "rejected": "Self-attention has a complexity that depends on sequence length and dimension, on page 6."
+  },
+  {
+    "prompt": "Context:\nOne machine with 8 NVIDIA P100 GPUs.\n\nQuestion: What hardware trained the models?",
+    "chosen": "The models were trained on one machine with 8 NVIDIA P100 GPUs. (source, p.7)",
+    "rejected": "The models were trained on P100 GPUs. [source]"
+  },
+  {
+    "prompt": "Context:\nMulti-head self-attention and a position-wise feed-forward network.\n\nQuestion: What are the two sub-layers in each encoder layer?",
+    "chosen": "Each encoder layer has two sub-layers: a multi-head self-attention mechanism and a position-wise feed-forward network. (source, p.3)",
+    "rejected": "Each encoder layer contains a couple of sub-layers described on page 3."
+  },
+  {
+    "prompt": "Context:\n4000 warmup steps.\n\nQuestion: What warmup steps were used?",
+    "chosen": "The model used 4000 warmup steps. (source, p.7)",
+    "rejected": "Warmup steps were used in the learning rate schedule. [source]"
+  },
+  {
+    "prompt": "Context:\nMoE: 26.03 English-to-German, 40.56 English-to-French.\n\nQuestion: What BLEU did MoE achieve on both pairs?",
+    "chosen": "MoE achieved 26.03 BLEU on English-to-German and 40.56 BLEU on English-to-French. (source, p.8)",
+    "rejected": "MoE achieved 26.03 on English-to-German. (source, p.8)"
+  },
+  {
+    "prompt": "Context:\nConstant sequential operations vs O(n) for recurrence.\n\nQuestion: What advantage does self-attention have for parallelization?",
+    "chosen": "Self-attention connects all positions with a constant number of sequential operations, while recurrent layers require O(n), allowing more parallelization. (source, p.6)",
+    "rejected": "Self-attention is more parallelizable than recurrence in general."
+  },
+  {
+    "prompt": "Context:\nA third sub-layer doing attention over the encoder output.\n\nQuestion: What extra sub-layer does the decoder have?",
+    "chosen": "The decoder has a third sub-layer that performs multi-head attention over the encoder's output. (source, p.3)",
+    "rejected": "The decoder has an additional attention sub-layer, described on page 3."
+  },
+  {
+    "prompt": "Context:\nRecurrent layer: O(n).\n\nQuestion: What is the maximum path length for a recurrent layer?",
+    "chosen": "A recurrent layer has a maximum path length of O(n). (source, p.6)",
+    "rejected": "The path length for recurrence grows with sequence length. [source]"
+  }
+]

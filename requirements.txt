@@ -39,3 +39,6 @@ python-dotenv>=1.0
 # pinecone-client           # Phase 5: cloud vector DB option
 # supabase                  # Phase 5: metadata / auth
 
+# ── Phase 3: self-corrective loop ──
+langgraph>=1.0
+langchain-core>=1.0

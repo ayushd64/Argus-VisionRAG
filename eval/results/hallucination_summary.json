@@ -1,0 +1,22 @@
+{
+  "baseline_no_selfcorrect": {
+    "config": "baseline_no_selfcorrect",
+    "unanswerable_total": 6,
+    "hallucinated": 1,
+    "correctly_refused": 5,
+    "hallucination_rate_pct": 16.7,
+    "hallucinated_questions": [
+      "How many parameters does the Transformer base model have in billions?"
+    ]
+  },
+  "full_selfcorrect": {
+    "config": "full_selfcorrect",
+    "unanswerable_total": 6,
+    "hallucinated": 1,
+    "correctly_refused": 5,
+    "hallucination_rate_pct": 16.7,
+    "hallucinated_questions": [
+      "How many parameters does the Transformer base model have in billions?"
+    ]
+  }
+}

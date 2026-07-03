@@ -1,0 +1,9 @@
+{
+  "engine": "ollama",
+  "model": "qwen2.5:1.5b",
+  "avg_single_latency_s": 2.205,
+  "single_tokens_per_s": 25.8,
+  "batch_prompts": 16,
+  "batch_total_s": 12.55,
+  "batch_tokens_per_s": 70.4
+}

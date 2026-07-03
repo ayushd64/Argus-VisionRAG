@@ -1,0 +1,15 @@
+{
+  "config": "full_selfcorrect",
+  "scores": {
+    "faithfulness": 0.584,
+    "answer_relevancy": 0.712,
+    "context_precision": 0.583,
+    "context_recall": 0.818
+  },
+  "coverage": {
+    "faithfulness": "6/22",
+    "answer_relevancy": "17/22",
+    "context_precision": "17/22",
+    "context_recall": "22/22"
+  }
+}

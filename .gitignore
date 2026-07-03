@@ -13,14 +13,15 @@ env/
 .env
 
 # Data & model weights (too big / private for git)
-data/pdfs/
-data/processed/
+data/pdfs/*.pdf
+data/processed_*/
 *.faiss
 *.index
 models/
 *.bin
 *.safetensors
 *.gguf
+*.pyc
 
 # Notebooks
 .ipynb_checkpoints/
@@ -31,3 +32,12 @@ models/
 .DS_Store
 Thumbs.db
 
+# secrets
+keys.txt
+
+# Fine-tuning artifacts (from WSL copy) 
+finetuning/argus-lora-adapter/ 
+finetuning/argus-dpo-adapter/ 
+finetuning/.venv/ \
+finetuning/.venv-dpo/ 
+*.safetensors 

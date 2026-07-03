@@ -1,0 +1,60 @@
+{
+  "baseline_no_selfcorrect": {
+    "config": "baseline_no_selfcorrect",
+    "total": 22,
+    "CORRECT": 17,
+    "PARTIAL": 3,
+    "WRONG": 2,
+    "by_category": {
+      "text": {
+        "CORRECT": 6,
+        "PARTIAL": 0,
+        "WRONG": 0
+      },
+      "visual": {
+        "CORRECT": 4,
+        "PARTIAL": 3,
+        "WRONG": 1
+      },
+      "reasoning": {
+        "CORRECT": 2,
+        "PARTIAL": 0,
+        "WRONG": 0
+      },
+      "unanswerable": {
+        "CORRECT": 5,
+        "PARTIAL": 0,
+        "WRONG": 1
+      }
+    }
+  },
+  "full_selfcorrect": {
+    "config": "full_selfcorrect",
+    "total": 22,
+    "CORRECT": 19,
+    "PARTIAL": 1,
+    "WRONG": 2,
+    "by_category": {
+      "text": {
+        "CORRECT": 6,
+        "PARTIAL": 0,
+        "WRONG": 0
+      },
+      "visual": {
+        "CORRECT": 6,
+        "PARTIAL": 1,
+        "WRONG": 1
+      },
+      "reasoning": {
+        "CORRECT": 2,
+        "PARTIAL": 0,
+        "WRONG": 0
+      },
+      "unanswerable": {
+        "CORRECT": 5,
+        "PARTIAL": 0,
+        "WRONG": 1
+      }
+    }
+  }
+}

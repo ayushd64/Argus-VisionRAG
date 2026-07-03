@@ -1,0 +1,21 @@
+{
+  "lora": {
+    "method": "QLoRA (4-bit, LoRA r=16)",
+    "trainable_pct": 0.28,
+    "base_params": "1.5B",
+    "examples": 35,
+    "result": "Learned the concise citation style — shifted output from verbose attribution ('This information is found on page 8...') to the clean target format '(source, p.8)'.",
+    "before": "The Transformer big model achieved a BLEU score of 41.0 on English-to-French. This information is from page 8, specifically Table 2.",
+    "after": "The Transformer (big) model achieved 28.4 BLEU on English-to-German and 41.0 BLEU on English-to-French. (source, p.8)"
+  },
+  "dpo": {
+    "method": "DPO (preference tuning, beta=0.2)",
+    "preference_pairs": 49,
+    "reward_accuracy": 1.0,
+    "lora_b_nonzero": "112/112",
+    "max_logit_shift": 5.83,
+    "result": "Trained to strong preference metrics and verified via adapter diagnostics (all 112 LoRA matrices non-zero, 5.83 logit shift vs base). Effect was below the threshold to change greedy-decoded text — a real but sub-surface preference shift.",
+    "lesson": "Strong training metrics don't guarantee visible output change; verifying at the weight/logit level (not just eyeballing text) is essential."
+  }
+}
+
